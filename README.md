@@ -1,17 +1,21 @@
-<p align="center">
-    <a href="https://mit-license.org/">
-      <img src= "https://user-images.githubusercontent.com/67145585/134778810-3ed67ef3-8699-42b9-80f3-6a2618d128b3.jpg"/>
-    </a>
-    <a href="https://www.python.org/">
-      <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" />
-    </a>
-  </p>
-</p>
+## Table of content:<br/>
 
-# How to install
+### 1. [Downloads](https://github.com/SuchyChomik/RqS#downloads) <br/>
+
+### 2. [About the program](https://github.com/SuchyChomik/RqS#about) <br/>
+
+### 2. [What's new?](https://github.com/SuchyChomik/RqS#Whats-new) <br/>
+
+### 3. [Requirements](https://github.com/SuchyChomik/RqS#requirments)
+
+### 4. [How to download/run](https://github.com/lnxcz/nitro-generator#useandrun)
+
+# Downloads
+
+
+
+# How to download/run
 Download the "RqS_Setup.exe" file from latest release, run it and follow the instructions on the screen
-# How to download
-[![hey](https://img.shields.io/badge/RqS_Setup.exe)](https://github.com/lnxcz/nitro-generator/archive/refs/heads/master.zip)
 
 # Socials:
 [Website](http://therqs.atwebpages.com/)  
