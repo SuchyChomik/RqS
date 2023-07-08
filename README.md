@@ -8,7 +8,7 @@
 
 ### 4. [Requirements](https://github.com/SuchyChomik/RqS#requirements)
 
-### 5. [How to ruun](https://github.com/SuchyChomik/RqS#How-To-Run)
+### 5. [How to run](https://github.com/SuchyChomik/RqS#How-To-Run)
 
 # Downloads
 
