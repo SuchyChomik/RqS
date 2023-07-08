@@ -6,7 +6,7 @@
 
 ### 3. [Socials](https://github.com/SuchyChomik/RqS#Socials) <br/>
 
-### 4. [Requirements](https://github.com/SuchyChomik/RqS#requirments)
+### 4. [Requirements](https://github.com/SuchyChomik/RqS#requirements)
 
 ### 5. [How to download/run](https://github.com/lnxcz/nitro-generator#howtodownload-run)
 
