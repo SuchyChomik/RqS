@@ -1,3 +1,4 @@
+![IsSupported](https://img.shields.io/badge/supported:-yes-blue)
 ## Table of content:<br/>
 
 ### 1. [Downloads](https://github.com/SuchyChomik/RqS#downloads) <br/>
